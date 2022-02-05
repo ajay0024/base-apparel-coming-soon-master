@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/ajay0024/base-apparel-coming-soon-master
+- Live Site URL: https://ajay0024.github.io/base-apparel-coming-soon-master/
 
 ## My process
 I build with mobile first workflow. I mostly used flex for layout. Simple JS code for form validation.
